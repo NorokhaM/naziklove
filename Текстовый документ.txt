@@ -1,0 +1,13 @@
+<html>
+<head>
+<style>
+.img{
+width:1080;
+height:1920;
+}
+</style>
+</head>
+<body>
+<img class="img" img src="дота (3).jpg">
+</body>
+</html>
